@@ -1,0 +1,5 @@
+server_files/
+*.zip
+playit.toml
+.playit.toml
+serverinstall_*
